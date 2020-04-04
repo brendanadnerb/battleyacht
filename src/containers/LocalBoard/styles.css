@@ -1,0 +1,10 @@
+.ships-container {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 20px;
+  top: 20px;
+  z-index: 1;
+  left: 50%;
+  transform: translateX(-50%);
+}

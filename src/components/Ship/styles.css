@@ -1,0 +1,10 @@
+.ship {
+  position: absolute;
+  background: rgba(10, 50, 75, .80);
+  cursor: pointer;
+
+  box-sizing: border-box;
+
+  border: 4px solid rgba(50, 0, 0, .25);
+  border-radius: 25px;
+}

@@ -1,0 +1,41 @@
+.game-board-container {
+  position: relative;
+  width: 440px;
+  height: 420px;
+  margin: 0 auto;
+}
+
+.game-board {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  display: block;
+  top: 20px;
+  left: 20px;
+}
+
+.col-label-container {
+  position: absolute;
+  width: 400px;
+  height: 20px;
+  left: 20px;
+}
+
+.col-label {
+  width: 50px;
+  float: left;
+}
+
+.row-label-container {
+  position: absolute;
+  left: 0px;
+  top: 20px;
+  width: 20px;
+}
+
+.row-label {
+  height: 50px;
+  width: 20px;
+  line-height: 3.5;
+  float: left;
+}

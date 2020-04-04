@@ -1,0 +1,10 @@
+.game-container {
+  min-width: 1460px;
+}
+
+.header-link {
+  color: #337ab7;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 10px 0 10px 0;
+}

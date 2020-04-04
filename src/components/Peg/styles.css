@@ -1,0 +1,17 @@
+.peg-container {
+  position: absolute;
+  border: 1px solid rgba(10, 50, 75, .80);
+}
+
+.peg {
+  background: rgba(10, 50, 75, .40);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}

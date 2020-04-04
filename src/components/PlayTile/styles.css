@@ -1,0 +1,5 @@
+.play-tile {
+  position: absolute;
+  cursor: pointer;
+  border-radius: 50%;
+}

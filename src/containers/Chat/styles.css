@@ -1,0 +1,23 @@
+.chat-container {
+  width: 400px;
+  margin: 20px auto;
+}
+
+.chat-history {
+  width: 400px;
+  height: 350px;
+  font-size: 18px;
+  resize: none;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.comment-input {
+  width: 400px;
+}
+
+h3 {
+  text-align: left;
+  width: 400px;
+  margin: 0 auto 20px auto;
+}
